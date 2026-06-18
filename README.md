@@ -1,2 +1,4 @@
-# python-localhost
-localhost на python
+# localhost на python
+Файл `index.html` - основной в него можно добавлять что угодно
+
+если удалить `index.html` будет ошибка
